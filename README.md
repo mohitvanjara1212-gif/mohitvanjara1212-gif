@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hello, I'm **Your Name**  
 
-<!--
-**mohitvanjara1212-gif/mohitvanjara1212-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ *Passionate Learner | Aspiring Developer | Tech Enthusiast*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **Qualification:** Your Degree (Year)  
+- 💻 **Interest:** Software Development | Web | Data | AI  
+- 🌱 Currently learning **New Technologies & Tools**  
+- 🎯 Goal: **Your Career Objective**
+- ⚡ Fun fact: *Something interesting about you*
+
+---
+
+## 🛠️ Tech Stack
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📂 Projects
+### 🔹 **Project Name**
+📝 Short project description  
+🔗 [View Repository](https://github.com/yourusername/projectname)
+
+### 🔹 **Project Name**
+📝 Short project description  
+🔗 [View Repository](https://github.com/yourusername/projectname)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote I Believe In
+> *"Success is the sum of small efforts repeated day in and day out."*
+
+---
+
+⭐ **If you like my profile, feel free to follow and connect!**
