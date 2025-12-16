@@ -1,15 +1,15 @@
-# 👋 Hello, I'm **Mohit Vanjara**  
+<p align="center">
+  <!-- Vercel-style badge with your name -->
+  <img src="https://img.shields.io/badge/-Mohit%20Vanjara-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-<div align="center">
+  <br/>
 
-✨ *Passionate Learner | Aspiring Developer | Tech Enthusiast*  
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=500&lines=Full-Stack+Developer;Python+%7C+AI%2FML+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
-</div>
+  <!-- Animated typing effect for intro / role -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Mohit+Vanjara;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
+</p>
 
 
-</div>
+
 
 ---
 
