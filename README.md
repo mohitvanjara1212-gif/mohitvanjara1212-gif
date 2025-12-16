@@ -45,8 +45,10 @@
 
 ## 📈 GitHub Stats
 <p align="center">
- 
  <img src="https://github-readme-stats.vercel.app/api?username=mohitvanjara1212-gif&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitvanjara1212-gif&color=blue&label=Profile%20Views" alt="Profile Views" />
+</p>
 
 </p>
 
