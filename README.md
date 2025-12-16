@@ -18,19 +18,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,mysql,mongodb,git,github,docker,linux" />
 </p>
-
+<br>
 
 ### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
+<br>
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-
 ---
+<br>
 
 ## 📂 Projects
 ### 🔹 **Project Name**
