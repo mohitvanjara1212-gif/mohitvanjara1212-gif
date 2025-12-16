@@ -1,15 +1,15 @@
-# 👋 Hello, I'm **Your Name**  
+# 👋 Hello, I'm **mohit vanjara**  
 
 ✨ *Passionate Learner | Aspiring Developer | Tech Enthusiast*  
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Qualification:** Your Degree (Year)  
+- 🎓 **Qualification:** Bachelor of computer applications (2023)  
 - 💻 **Interest:** Software Development | Web | Data | AI  
-- 🌱 Currently learning **New Technologies & Tools**  
-- 🎯 Goal: **Your Career Objective**
-- ⚡ Fun fact: *Something interesting about you*
+- 🌱 Currently learning **Python, full-stack, AI/ML and E-Commerce**  
+- 🎯 Goal: **successful developer and engineer**
+- ⚡ Fun fact: *work loudly in silent*
 
 ---
 
