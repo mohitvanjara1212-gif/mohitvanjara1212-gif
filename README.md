@@ -49,15 +49,9 @@
 ---
 
 ## 📂 Projects
-### 🔹 **Project Name 1**
-📝 Short project description  
-🔗 [View Repository](https://github.com/mohitvanjara1212-gif/project1)  
-![Project GIF](https://via.placeholder.com/400x200.png?text=Project+Demo)
+### 🔹 Project Name
+[![Project Demo](https://via.placeholder.com/400x200.gif?text=Project+Demo)](https://github.com/mohitvanjara1212-gif/project1)
 
-### 🔹 **Project Name 2**
-📝 Short project description  
-🔗 [View Repository](https://github.com/mohitvanjara1212-gif/project2)  
-![Project GIF](https://via.placeholder.com/400x200.png?text=Project+Demo)
 
 ---
 
@@ -68,7 +62,6 @@
   <img src="https://komarev.com/ghpvc/?username=mohitvanjara1212-gif&color=blue&label=Profile%20Views" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitvanjara1212-gif&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvanjara1212-gif&layout=compact&theme=tokyonight" />
 </p>
