@@ -67,6 +67,12 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=mohitvanjara1212-gif&color=blue&label=Profile%20Views" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitvanjara1212-gif&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvanjara1212-gif&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
