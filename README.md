@@ -1,10 +1,3 @@
-<p align="center">
-  <p align="center">
-  <!-- Animated typing header with multiple lines and rotation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=500&color=00CFFF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Mohit+Vanjara;Full-Stack+Developer;AI%2FML+Enthusiast;Open-Source+Contributor" alt="Mohit Vanjara Typing" />
-
-  <br/>
-
   <!-- Wave style animated roles -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=FF5733,00CFFF,61DAFB&center=true&vCenter=true&width=600&lines=💻+Coder;🌐+Web+Developer;🤖+AI%2FML+Enthusiast;🚀+Open-Source+Contributor" alt="Animated Roles" />
 </p>
