@@ -1,69 +1,85 @@
-# 👋 Hello, I'm **mohit vanjara**  
+# 👋 Hello, I'm **Mohit Vanjara**  
+
+<div align="center">
 
 ✨ *Passionate Learner | Aspiring Developer | Tech Enthusiast*  
+
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Python+%7C+Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Qualification:** Bachelor of computer applications (2023)  
+- 🎓 **Qualification:** Bachelor of Computer Applications (2023)  
 - 💻 **Interest:** Software Development | Web | Data | AI  
-- 🌱 Currently learning **Python, full-stack, AI/ML and E-Commerce**  
-- 🎯 Goal: **successful developer and engineer**
-- ⚡ Fun fact: *work loudly in silent*
+- 🌱 Currently learning **Python, Full-Stack Development, AI/ML, and E-Commerce**  
+- 🎯 Goal: **To become a successful developer and engineer**  
+- ⚡ Fun fact: *I work loudly in silence*
 
 ---
 
-## 🚀 Tech Stack (Modern & Popular)
+## 🛠️ Tech Stack (Modern & Popular)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,mysql,mongodb,git,github,docker,linux" />
 </p>
-<br>
 
 ### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-<br>
+<p>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+<p>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 ---
-<br>
 
 ## 📂 Projects
-### 🔹 **Project Name**
+### 🔹 **Project Name 1**
 📝 Short project description  
-🔗 [View Repository](https://github.com/yourusername/projectname)
+🔗 [View Repository](https://github.com/mohitvanjara1212-gif/project1)  
+![Project GIF](https://via.placeholder.com/400x200.png?text=Project+Demo)
 
-### 🔹 **Project Name**
+### 🔹 **Project Name 2**
 📝 Short project description  
-🔗 [View Repository](https://github.com/yourusername/projectname)
+🔗 [View Repository](https://github.com/mohitvanjara1212-gif/project2)  
+![Project GIF](https://via.placeholder.com/400x200.png?text=Project+Demo)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Profile Views
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mohitvanjara1212-gif&show_icons=true&theme=tokyonight&hide_border=true" />
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitvanjara1212-gif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=mohitvanjara1212-gif&color=blue&label=Profile%20Views" alt="Profile Views" />
 </p>
 
-</p>
-
-
 ---
+
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohit-vanjara-881368394/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mohitvanjara1212@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/mohitvanjara1212-gif" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
 
 ---
 
