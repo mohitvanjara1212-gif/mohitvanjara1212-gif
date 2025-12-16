@@ -48,10 +48,12 @@
 
 ---
 
-## 📂 Projects
+### 🔹 Mohit Project1
+📝 Short description: *A project showcasing my skills in full-stack development, Python, and web technologies.*  
+🔗 [View Repository](https://github.com/mohitvanjara1212-gif/mohit-project1)
 
-[![Project Demo](https://github.com/mohitvanjara1212-gif/mohit-project1/blob/main/demo.gif?raw=true)](https://github.com/mohitvanjara1212-gif/mohit-project1)
-
+<!-- Image hosted inside the repo -->
+[![Project Preview](https://github.com/mohitvanjara1212-gif/mohit-project1/blob/main/screenshot.png?raw=true)](https://github.com/mohitvanjara1212-gif/mohit-project1)
 
 ---
 
