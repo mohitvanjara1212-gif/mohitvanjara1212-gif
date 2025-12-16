@@ -49,8 +49,13 @@
 ---
 
 ## 📂 Projects
-### 🔹 Project Name
-[![Project Demo](https://via.placeholder.com/400x200.gif?text=Project+Demo)](https://github.com/mohitvanjara1212-gif/project1)
+
+### 🔹 **Mohit Project1**
+📝 Short description: *A project showcasing my skills in full-stack development, Python, and web technologies.*  
+🔗 [View Repository](https://github.com/mohitvanjara1212-gif/mohit-project1)
+
+<!-- Optional: Add GIF or image preview -->
+[![Project Preview](https://via.placeholder.com/400x200.png?text=Mohit+Project1+Demo)](https://github.com/mohitvanjara1212-gif/mohit-project1)
 
 
 ---
