@@ -1,9 +1,13 @@
-  <!-- Wave style animated roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=FF5733,00CFFF,61DAFB&center=true&vCenter=true&width=600&lines=💻+Coder;🌐+Web+Developer;🤖+AI%2FML+Enthusiast;🚀+Open-Source+Contributor" alt="Animated Roles" />
+<p align="center">
+  <!-- Animated typing header with multiple lines -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=500&color=00CFFF&center=true&width=700&lines=Hi+There!+I'm+Mohit+Vanjara;Full-Stack+Developer;AI%2FML+Enthusiast;Open-Source+Contributor" alt="Mohit Vanjara Typing" />
+
+  <br/>
+
+  <!-- Simple animated roles (one color per line) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=FF5733&center=true&width=600&lines=💻+Coder;🌐+Web+Developer;🤖+AI%2FML+Enthusiast;🚀+Open-Source+Contributor" alt="Animated Roles" />
 </p>
-<center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Open-Source+Contributor" alt="Roles Typing" />
-</p>
+
 
 ---
 
