@@ -46,7 +46,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitvanjara1212-gif&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=mohitvanjara1212-gif&theme=tokyonight&hide_border=true&mode=daily" />
+  <img src="https://streak-stats.demolab.com?user=mohitvanjara1212-gif&theme=dark&hide_border=true" />
+
 </p>
 
 
