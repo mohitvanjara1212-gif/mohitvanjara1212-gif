@@ -1,13 +1,18 @@
+<!-- Navigation Header -->
 <p align="center">
-  <!-- Vercel-style badge with your name -->
-  <img src="https://img.shields.io/badge/-Mohit%20Vanjara-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  <br/>
-
-  <!-- Animated typing effect for intro / role -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Mohit+Vanjara;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <a href="#about-me" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/About-Me-00CFFF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#tech-stack" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Skills-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  </a>
+  <a href="#projects" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Projects-FF5733?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#contact" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
 
 
 
