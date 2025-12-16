@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🎓 **Qualification:** Bachelor of Computer Applications (2023)  
 - 💻 **Interest:** Software Development | Web | Data | AI  
-- 🌱 Currently learning **Python, Full-Stack Development, AI/ML, and E-Commerce**  
+- 🌱 Currently learning **Python, Full-Stack Development and AI/ML**  
 - 🎯 Goal: **To become a successful developer and engineer**  
 - ⚡ Fun fact: *I work loudly in silence*
 
