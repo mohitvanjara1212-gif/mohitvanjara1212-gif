@@ -13,11 +13,12 @@
 
 ---
 
-## 🛠️ Tech Stack
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+## 🚀 Tech Stack (Modern & Popular)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,mysql,mongodb,git,github,docker,linux" />
+</p>
+
 
 ### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
