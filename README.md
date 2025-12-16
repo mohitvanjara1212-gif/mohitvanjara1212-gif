@@ -54,7 +54,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/mohit-vanjara-881368394">
+  <a href="www.linkedin.com/in/mohit-vanjara-881368394/">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:mohitvanjara1212@gmail.com">
