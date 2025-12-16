@@ -28,13 +28,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,mysql,mongodb,git,github,docker,linux" />
 </p>
 
-### 🌐 Web Technologies
-<p>
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+## 🛠️ Skills
+
+<p align="left">
+  HTML      <img src="https://progress-bar.dev/95/?color=FF5733&width=200" alt="HTML">
+  CSS       <img src="https://progress-bar.dev/90/?color=2965F1&width=200" alt="CSS">
+  JavaScript<img src="https://progress-bar.dev/85/?color=F7DF1E&width=200" alt="JS">
+  React     <img src="https://progress-bar.dev/80/?color=61DAFB&width=200" alt="React">
+  Python    <img src="https://progress-bar.dev/70/?color=306998&width=200" alt="Python">
 </p>
 
 ### 🧰 Tools & Platforms
