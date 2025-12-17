@@ -8,8 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Python+%7C+Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 
 </div>
- <!-- Wave style animated roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=FF5733,00CFFF,61DAFB&center=true&vCenter=true&width=600&lines=💻+Coder;🌐+Web+Developer;🤖+AI%2FML+Enthusiast;🚀+Open-Source+Contributor" alt="Animated Roles" />
+ 
 </p>
 
 
