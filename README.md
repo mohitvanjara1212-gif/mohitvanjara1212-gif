@@ -5,7 +5,12 @@
 ✨ *Passionate Learner | Aspiring Developer | Tech Enthusiast*  
 
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Python+%7C+Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Python+%7C+Full-Stack+Developer+%7C+AI%2FML+Enthusiast" 
+  alt="Typing SVG" 
+  width="800"
+/>
+
 
 </div>
  
