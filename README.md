@@ -65,13 +65,12 @@
 
 ## 📈 GitHub Stats & Profile Views
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitvanjara1212-gif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <br/>
+ 
   <img src="https://komarev.com/ghpvc/?username=mohitvanjara1212-gif&color=blue&label=Profile%20Views" alt="Profile Views" />
 </p>
 <p align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvanjara1212-gif&layout=compact&theme=tokyonight" />
+  
 </p>
 
 
