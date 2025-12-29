@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 # 👋 Hello, I'm **Mohit Vanjara**  
 
 <div align="center">
@@ -68,7 +66,8 @@
 
 ## 📈 GitHub Stats & Profile Views
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitvanjara1212-gif&show_icons=true&theme=dark)
+![Followers](https://img.shields.io/github/followers/mohitvanjara1212-gif?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/mohitvanjara1212-gif?style=for-the-badge)
 
   <img src="https://komarev.com/ghpvc/?username=mohitvanjara1212-gif&color=blue&label=Profile%20Views" alt="Profile Views" />
 </p><br>
