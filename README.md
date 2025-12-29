@@ -66,9 +66,7 @@
 
 ## 📈 GitHub Stats & Profile Views
 <p align="center">
-![Followers](https://img.shields.io/github/followers/mohitvanjara1212-gif?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/mohitvanjara1212-gif?style=for-the-badge)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mohitvanjara1212-gif&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
   <img src="https://komarev.com/ghpvc/?username=mohitvanjara1212-gif&color=blue&label=Profile%20Views" alt="Profile Views" />
 </p><br>
 <p align="center">
